@@ -1,5 +1,5 @@
 name: cassowary_layout
-description: "A new Flutter project."
+description: "A Flutter constraint layout widget that uses the Cassowary constraint solving algorithm to create flexible and responsive layouts."
 version: 0.0.1
 repository: "https://github.com/xiaoyu233/cassowary_layout"
 
